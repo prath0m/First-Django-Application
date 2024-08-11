@@ -71,22 +71,23 @@ Here's an overview of the key files and directories in the project:
 SPIDERWEB/
 
 │
-├── spiderweb/ # Project settings and configurations
+├── spiderweb/
 │ ├── init.py
-│ ├── settings.py # Main settings file
-│ ├── urls.py # URL configurations
-│ ├── wsgi.py # WSGI configuration for deployment
-| ├──admin.py # Admin panel configurations
-│ ├── models.py # Database models
-│ ├── views.py # Views handling the logic
-│ ├── asgi.py # URL routes for the app
-│ └── tests.py # Unit tests for the app
+│ ├── settings.py 
+│ ├── urls.py 
+│ ├── wsgi.py 
+| ├──admin.py 
+│ ├── models.py
+│ ├── views.py 
+│ ├── asgi.py 
+│ └── tests.py 
 │
-├──  static/ # Static files (CSS, JavaScript, images)
-├── templates/ # HTML templates
-├── manage.py # Django's command-line utility
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├──  static/ 
+├── templates/ 
+├── manage.py 
+├── requirements.txt 
+└── README.md 
+
 
 ### Configuration
 
