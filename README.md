@@ -64,31 +64,6 @@ Before you begin, ensure you have the following installed on your system:
 
     Visit `http://127.0.0.1:8000/` in your web browser to view the application.
 
-### Project Structure
-
-Here's an overview of the key files and directories in the project:
-
-SPIDERWEB/
-
-│
-├── spiderweb/
-│ ├── init.py
-│ ├── settings.py 
-│ ├── urls.py 
-│ ├── wsgi.py 
-| ├──admin.py 
-│ ├── models.py
-│ ├── views.py 
-│ ├── asgi.py 
-│ └── tests.py 
-│
-├──  static/ 
-├── templates/ 
-├── manage.py 
-├── requirements.txt 
-└── README.md 
-
-
 ### Configuration
 
 #### Settings
