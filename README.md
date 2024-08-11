@@ -69,6 +69,7 @@ Before you begin, ensure you have the following installed on your system:
 Here's an overview of the key files and directories in the project:
 
 SPIDERWEB/
+
 │
 ├── spiderweb/ # Project settings and configurations
 │ ├── init.py
